@@ -10,6 +10,11 @@ This repository contains my solutions to the [Advent of Code 2025](https://adven
 ## Technologies
 
 - **Python** - Primary language for initial solutions
+- **Cursor** - Primary development environment + AI assistant for test development and debugging
+
+## Solution Complexities
+
+- Day 1: Secret Entrance - *O(n)*
 
 ---
 
